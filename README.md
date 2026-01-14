@@ -56,11 +56,7 @@ Preprocessing was applied to clean and standardize skill keywords and reduce noi
 ---
 
 ## Output
-<<<<<<< Updated upstream
-- 📄 **[Read the full paper](./Exploring_Skill_Requirement_ in_Data_Science_Job_Postings_using_NLPBased_Clustering.pdf)**
-=======
 - 📄 **[Read the full paper](./Exploring_Skill_Requirement_in_Data_Science_Job_Postings_using_NLPBased_Clustering.pdf)**
->>>>>>> Stashed changes
 - 📓 **[npl_clustering_job_skils.ipynb](./npl_clustering_job_skils.ipynb)** containing full analysis and experiments
 
 ---
